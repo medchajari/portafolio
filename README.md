@@ -21,7 +21,7 @@
 ## 📁 Proyectos destacados
 
 ### 🔹 PilarPan
-Sitio web para panadería y pastelería.  
+Sitio web Para hospedaje turistico.  
 🔗 [http://pilarpan.com.ar](http://pilarpan.com.ar)  
 🛠️ Tecnologías: PHP, HTML, JavaScript
 

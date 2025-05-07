@@ -45,6 +45,7 @@ Sistema completo de facturación y control de productos
 📧 **Email:** mar7incitoo@gmail.com  
 📱 **WhatsApp / Tel:** 3456468873  
 🌐 **Portafolio:** https://github.com/medchajari/
+
 📍 **Ubicación:** Argentina – Disponible para trabajar en remoto
 
 ---

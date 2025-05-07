@@ -29,6 +29,10 @@ Sitio web Para hospedaje turistico.
 Aplicación para gestión de pacientes, estudios y resultados.  
 💻 Hecho en Java + MySQL
 
+### 🔹 Sistema para Barberia
+Sistema completo para la administración de una barbería con múltiples funcionalidades que permiten gestionar turnos, clientes, empleados, finanzas, stock y sucursales de forma eficiente.  
+💻 Hecho en Java + MySQL
+
 ### 🔹 Software de autoservicio y kioscos
 Sistema completo de facturación y control de productos  
 💻 Java + MySQL
